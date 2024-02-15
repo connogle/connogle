@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🎓 Studying Computer Science at the University of North Carolina at Chapel Hill; <br>💻 I'm currently working on: AI powered translation as an introduction into machine learning; <br>🧑‍🏫 Instructional Assistant for Introduction to Computer Science
+🎓 Studying Computer Science at the University of North Carolina at Chapel Hill; <br>💻 I'm currently working on: AI powered translation as an introduction into machine learning; <br>
+A project to help out in my community with CS+SG UNC; <br>
+🧑‍🏫 Instructional Assistant for Introduction to Computer Science
 
 
 ## 🌐 Socials:
